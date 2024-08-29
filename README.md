@@ -11,8 +11,8 @@
 ## Membros
 
 - Angelo Avelino
-- Bruna Candido
-- Gabriel Gonçalves
+- [Bruna Candido](https://github.com/BruuhCand)
+- [Gabriel Gonçalves](https://github.com/ExiledSpirit)
 - Edvaldo Junior
 - Nicolas Ferracioli
 - José Alexandre
