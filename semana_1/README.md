@@ -11,3 +11,5 @@
 
 - ERP;
 - controle de recorrência de fotos.
+
+ ## Link do artigo = https://docs.google.com/document/d/1oa1uKFHEo-I8ombWaeXwa7nmvlDJVXGH/edit?usp=sharing&ouid=104216023025074020020&rtpof=true&sd=true
