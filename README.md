@@ -16,6 +16,10 @@
 
 [Definição MVP's e Sprints](./semana_5/README.md)
 
+## Semana 6
+
+[Primeira Entrega](./semana_6/README.md)
+
 ## Membros
 
 - Angelo Avelino
